@@ -1,4 +1,5 @@
 # AWSWebsite
+http://djtawsbucket.s3-website-us-east-1.amazonaws.com
 This repository demonstrates how to set up a static website hosted on Amazon Web Services (AWS) using S3 for storage and CloudFront for content delivery. The project includes step-by-step instructions for:
 
 Creating and configuring an S3 bucket to host static website files.
